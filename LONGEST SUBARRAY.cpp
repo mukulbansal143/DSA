@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SUBARRAY= 
+=======
+SUBARRAY= 
+>>>>>>> d857f9005b543d1c0f781c3c0b53e495f32e4332
